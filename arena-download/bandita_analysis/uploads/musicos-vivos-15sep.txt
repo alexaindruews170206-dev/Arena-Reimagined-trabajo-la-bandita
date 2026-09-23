@@ -1,0 +1,12 @@
+arunnechully/SoundPod | 112 | 2026-09-11 | v1.3.6 (2026-08-26) | An Android application for streaming music from YouTube Music.
+d0x-dev/Airbeats-Desktop | 2 | 2026-09-13 | v6.3.0 (2026-09-06) | Advanced open-source YouTube Music client for Android , Windows , Mac & Linux with immersi
+FrancescoGrazioso/Meld | 1584 | 2026-09-15 | v0.8.9 (2026-08-27) | YouTube Music client for Android with Spotify integrations
+involvex/youtube-music-cli | 430 | 2026-09-14 | v0.2.3 (2026-09-14) | A powerful Terminal User Interface (TUI) music player for YouTube Music
+Kopuz-org/kopuz | 1857 | 2026-09-14 | v0.16.2 (2026-09-11) | Your next music player
+Lojcs/tsacdop | 52 | 2026-08-24 | v0.10.1 (2026-08-19) | Enjoy podcasts with Tsacdop!  A podcast player built with flutter. (Fork)
+LUC4N3X/Levyra-deepsound | 218 | 2026-09-15 | v2.5.8 (2026-09-14) | A modern open-source music player for Android & Windows, focused on immersive playback, sm
+MrDemonc/Lune | 202 | 2026-09-04 | 1.5.2 (2026-08-13) | Music player inspired by Material 3: Expressive
+noel-digital-fan/volume_plus_plus | 111 | 2026-08-29 | v1.1.5 (2026-08-28) | 
+suvojeet-sengupta/SuvMusic | 290 | 2026-09-12 | v2.6.6.0 (2026-08-25) | 
+TeamAuraMusic/AuraMusic | 82 | 2026-09-14 | v3.1.0 (2026-08-31) | YouTube Music client for Android
+tryptz/Tryptify | 67 | 2026-09-14 | 1.8.8 (2026-09-07) | This application offers native Android music streaming capabilities, a local player, combi

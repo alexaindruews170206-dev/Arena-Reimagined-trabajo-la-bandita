@@ -1,0 +1,32 @@
+[GUÍA] Música I — la cosecha del muro: 12 proyectos vivos, fuente por fuente (15-sep-2026)
+
+**XDA · dominicano-ES · fuente: pieza 21 (15-sep) · verificado: 15 de septiembre de 2026**
+
+**Qué es:** la segunda fila de la música libre: Kopuz ★1.857, Meld ★1.584 (push de HOY), Levyra ★294 (subió 76 en el día) y otros nueve — sin fama como vara: cadencia, función y repo abierto.
+
+**Cómo se verificó:** 12/12 abiertas en su casa HOY; sin push o release reciente, no entra — ninguna se salvó por fama.
+
+**La cosecha (todo contado hoy):**
+
+- **Kopuz** — ★1.857 · v0.16.2 (11-sep) · push del 14 · github.com/Kopuz-org/kopuz
+- **Meld** — ★1.584 · v0.8.9 · push de HOY mismo · github.com/FrancescoGrazioso/Meld
+- **Levyra** — ★294 (**76 más en el día** — el muro se movió) · v2.5.8 (14-sep) · github.com/LUC4N3X/Levyra-deepsound
+- **youtube-music-cli** — ★430 · v0.2.3 (14-sep) · **SuvMusic** — ★290 · v2.6.6.0 · **Lune** — ★202 · 1.5.2
+- **SoundPod** — ★112 · **Volume++** — ★111 · **AuraMusic** — ★82 · **Tryptify** — ★67 · **Tsacdop (fork)** — ★52
+- **Airbeats Desktop** — ★2 — la más pequeña de la cosecha, viva igual
+
+**El método, contado:** la fuente fue el muro de mil fichas; la vara, la casa: sin push o release reciente, no entra. Ninguna de las doce se salvó por fama — todas por fecha.
+
+**Nota de honestidad:** los grandes de la familia (Metrolist, SimpMusic y compañía) NO están aquí porque ya tienen sus piezas: 08 y 27. Esta cosecha es la segunda fila — y empuja fuerte.
+## Changelog
+
+- **15-sep-2026:** Meld con push de HOY; Levyra ★294 (+76 en el día).
+
+## Créditos y enlaces
+
+Hilo 21 de la serie: «Música I — la cosecha del muro: 12 proyectos vivos, fuente por fuente». Cada proyecto enlaza a su casa en GitHub — ruta completa autor/repo, sin acortadores. El corte de este hilo — «Música I — la cosecha del muro: 12 proyectos vivos, fuente por fuente» — se leyó en su casa el 15-sep; si un número cambia, el hilo 21 se edita con fecha — nunca en silencio. El meme del oficio:
+
+> —¿Doce más? ¿Ya no eran suficientes?
+> —La música nunca sobra: sobran las listas sin fecha.
+
+*La Bandita verifica antes de recomendar: las estrellas adornan; las fechas mandan.*

@@ -1,0 +1,61 @@
+La Bandita — archivo completo de correcciones · 2026-09-13
+BORRADOR. Firma humana o no hay envío. No Discord.
+
+Qué hay aquí
+------------
+1. Doce publicaciones (Facebook + WhatsApp) del corte 2026-09-13.
+2. Añadidos al Manual (no al tratado madre): §8 Carta como ejemplo;
+   §8.1 lecciones de textos personales SIN PII (G-004: no hay artículo nuevo).
+3. Inventario del volcado mar–jul y lista de NO REPUBLICAR.
+4. Carpeta personales/: vacía hasta que Alexis pegue verbatim.
+
+Techos
+------
+Facebook: nunca más de 40k. WhatsApp: nunca más de 63k.
+01–05 se escribieron como muros largos (30–40k / ~63k).
+06–12 son fichas de corrección densas: no se rellenaron con agua (C05, G-002).
+Si una de 06–12 debe subir a 30k, se amplía con hechos nuevos, no con repetición.
+
+Copy aproximado (título → hashtags)
+-----------------------------------
+01 Tiendas       FB ~36k   WA ~60k
+02 Kototoro      FB ~35k   WA ~61k
+03 ADV           FB ~36k   WA  63k
+04 Extensiones   FB ~40k   WA ~61k
+05 TMO clones    FB ~30k   WA ~30k
+06 Forks         ~18.7k
+07 Usagi         ~7.1k
+08 Música FOSS   ~6.3k
+09 Herramientas  ~5.5k
+10 GLTools       ~4.4k
+11 AniZen        ~4.8k
+12 FMHY          ~4.6k
+
+Hechos que corrigen el volcado
+------------------------------
+- Kototoro v2.1.1 (no 1.6.8). Tadami vivo = andarcanum.
+- Keiyoushi vivo; Yūzōnō público; Kohi-den archivado 14-may.
+- No receta de índice / JAR / JWT.
+- TMO: Policía Nacional 22-abr-2026. Clones se nombran, no se enlazan.
+- TachiyomiSY vivo = jobobby04 (4.144★). mannu691 = fork 2024 (18★).
+- Komikku = komikku-app 4.712★ v1.14.1. Mihon 23.556★ v0.20.4.
+- Kotatsu original ARCHIVADO. UsagiApp/Usagi v1.0 (9-sep). Gekkoushi se nombra, no se descarga.
+- RiMusic ARCHIVADO. InnerTune lento (nov-2025). OuterTune y SimpMusic v2.1.0 se mueven.
+- AniZen v0.5.211 hoy. Fila 2 BORRADOR, no enviado.
+- FMHY = pista, no catálogo.
+- GLTools: no hay oficial vivo. AnTuTu iQOO no es [T].
+
+Tratado
+-------
+El tratado madre V.0.03 NO se edita (G-004).
+Lo que se añadió vive en el Manual de Campo:
+  §8  Carta a La Bandita (ejemplo, sentido [P] confirmado)
+  §8.1 textos personales (lección sin PII)
+Lecciones 2026-09-13 III: no se guía por un camino no recorrido.
+
+Personales
+----------
+Día del Padre, 17-may, teléfono, etc.: pégalos en
+archivo-alexis-2026/personales/. No se inventan. No van a Facebook.
+
+Golden send: el asistente redacta; Alexis reescribe o no hay envío.

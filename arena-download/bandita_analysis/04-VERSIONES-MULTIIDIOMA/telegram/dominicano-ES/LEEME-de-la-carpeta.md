@@ -1,0 +1,12 @@
+# Carpeta telegram/dominicano-ES — Telegram (reservada) · Español dominicano (casa madre)
+
+Versión de plataforma **Telegram (reservada)** adaptada a **Español dominicano (casa madre)** — no traducción literal: adaptación de contexto (cultura, formato y tono de la plataforma, norma del idioma).
+
+- Fuente madre de los textos: corpus La Bandita 2026-09-15 (piezas 00–79, `03-PUBLICACIONES-*`).
+- Estado: ver **Guía de versionado** en la raíz de `04-VERSIONES-MULTIIDIOMA/` (plan por hornadas).
+- Regla de la casa: «La Bandita verifica antes de recomendar» — vale igual en los siete idiomas.
+- Nombres de terceros y datos personales NO van en piezas públicas (regla P10 de la casa).
+
+## Estado — mega-orden del 15-sep
+
+80 piezas (00–79: 79 escritas en la mega-orden + sonda 75) — **bloque cerrado el 15-sep**; formato 📌 con preview de 2 líneas y meme en una línea · gemela Discord↔Telegram 79/79 ✓ · ventanas 0 ✓.
